@@ -27,7 +27,7 @@ img {
 }
 
 .banner{
-    background-color: white;
+    background-color:rgb(245, 186, 60);
     padding: 50px;
 }
 
@@ -50,5 +50,9 @@ body{
 }
 
 .kontakt{
-    background-color: darkgray;
+    background-color: rgb(245, 186, 60);
+}
+
+.header{
+    background-color: rgb(245, 186, 60);
 }
