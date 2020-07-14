@@ -1,10 +1,4 @@
 
-.nadpis {
-    size: 100px;
-    margin-right: 30%;
-    border: 3px solid rgb(0, 0, 0);
-    border-radius: 10px;
-}
 
 .h1{
     text-align: center;
@@ -28,10 +22,11 @@ img {
 
 .nadpis{
     text-align: center;
-    background-image: url('book3.jpg');
+    background-image: url('book7.jpg');
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
+
 }
 .padding{
     padding-left: 50px;
@@ -40,9 +35,9 @@ img {
 
 .uvod{
     padding-top: 50px;
-    padding-bottom: 50px
+    padding-bottom: 50px;
 }
 
 .o-nas{
-    
+    padding: 50px;
 }
