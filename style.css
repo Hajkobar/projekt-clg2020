@@ -1,16 +1,15 @@
 
-.thumbnail {
+.nadpis {
     size: 100px;
-
     margin-right: 30%;
     border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
 }
 
 .h1{
     text-align: center;
     color: rgb(201, 188, 5);
     size: 60%;
-
 }
 
 img {
@@ -34,6 +33,16 @@ img {
     background-repeat: no-repeat;
     background-size: contain;
 }
-    .padding{
-    padding: 50px;
+.padding{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.uvod{
+    padding-top: 50px;
+    padding-bottom: 50px
+}
+
+.o-nas{
+    
 }
