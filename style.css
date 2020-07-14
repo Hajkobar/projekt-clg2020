@@ -2,11 +2,13 @@
 .thumbnail {
     size: 100px;
     border: 3px solid red;
+    margin-right: 30%;
 }
 
-h1{
+.h1{
     text-align: center;
-    color: blue;
+    color: rgb(201, 188, 5);
+    size: 60%;
 
 }
 
@@ -18,4 +20,8 @@ img {
 
 .class1{
       padding: 20px;
+}
+
+.container{
+    display: flex;
 }
