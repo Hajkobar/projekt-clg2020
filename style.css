@@ -26,6 +26,14 @@ img {
 .container{
     display: flex;
 }
+
+.nadpis{
+    text-align: center;
+    background-image: url('book3.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
     .padding{
     padding: 50px;
 }
