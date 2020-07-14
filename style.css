@@ -1,13 +1,16 @@
-<<<<<<< HEAD
-.thumbnail{
-=======
 
-.img-thumbnail{
->>>>>>> 3a153cc4cd48f9a730aa7ada4e597ee16265c076
-    size: 200px;
+.thumbnail{
+
+    size: 100px;
 }
 
 h1{
     color: blue;
 
 }
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+  }
