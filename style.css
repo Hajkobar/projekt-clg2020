@@ -14,3 +14,7 @@ img {
     height: 100px;
     border-radius: 50px;
   }
+
+  body{
+      padding: 20px;
+  }
