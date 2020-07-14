@@ -36,8 +36,12 @@ img {
 .uvod{
     padding-top: 50px;
     padding-bottom: 50px;
+ 
 }
 
 .o-nas{
     padding: 50px;
+}
+body{
+    background-color: cornsilk;
 }
