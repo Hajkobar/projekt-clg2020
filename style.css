@@ -76,6 +76,7 @@ img {
 }
 
 .nadpis {
+    color: white;
     text-align: center;
     background-image: url('img/book8.png');
     background-position: left;
