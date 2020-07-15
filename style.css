@@ -1,7 +1,33 @@
-.h1{
+body {
+    background-color: cornsilk;
+}
+
+.header {
+    background-color: rgb(245, 186, 60);
+}
+
+.h1 {
     text-align: center;
     color: rgb(201, 188, 5);
     size: 60%;
+}
+
+.uvod{ 
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.o-nas {
+    padding-bottom: 50px;
+}
+
+.kontakt {
+    background: rgb(245, 186, 60);
+    padding: 50px;
+}
+
+.map {
+    padding-bottom: 40px;
 }
 
 img {
@@ -12,17 +38,19 @@ img {
 
 .bookcover {
     border-radius: 0px;
+    padding-left: 40px;
+    padding-top: 20px;
 }
 
-.class1{
-      padding: 20px;
+.bookdescription {
+    padding-top: 10px;
 }
 
-.container{
+.container {
     display: flex;
 }
 
-.nadpis{
+.nadpis {
     text-align: center;
     background-image: url('img/book8.png');
     background-position: left;
@@ -30,41 +58,19 @@ img {
     background-size: contain;
 }
 
-.banner{
+.banner {
     background-color:rgb(245, 186, 60);
     padding: 50px;
 }
 
-.padding{
+.padding {
     padding-left: 50px;
     padding-right: 50px;
 }
 
-.uvod{
-    padding-top: 50px;
-    padding-bottom: 50px;
- 
-}
-
-.o-nas{
-    padding-bottom: 50px;
-}
-
-body{
-    background-color: cornsilk;
-}
-
-.kontakt{
-    background-color: rgb(245, 186, 60);
-}
-
-.header{
-    background-color: rgb(245, 186, 60);
-}
-
-iframe{
+iframe {
     width: 80%;
     height: 100%;
-min-height: 400px;
+    min-height: 400px;
 }
 
