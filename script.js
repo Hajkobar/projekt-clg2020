@@ -7,3 +7,6 @@ function uloz(idElementucoUlozit){
     function zobraz(coZobrazit) {
         document.getElementById('hodiny').innerHTML = coZobrazit + ' - ' + window.localStorage.getItem(coZobrazit);
     }
+
+
+
