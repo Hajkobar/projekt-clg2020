@@ -26,11 +26,14 @@ body {
 }
 
 .kontaktnadpis {
-    padding: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 30;
 }
 
 .kontaktobsah {
-    margin-left: 50px;
+    margin: 50px;
 }
 
 .map {
