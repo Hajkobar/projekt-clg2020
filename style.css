@@ -20,7 +20,7 @@ img {
 
 .nadpis{
     text-align: center;
-    background-image: url('book8.png');
+    background-image: url('img/book8.png');
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -57,3 +57,4 @@ body{
 .header{
     background-color: rgb(245, 186, 60);
 }
+
