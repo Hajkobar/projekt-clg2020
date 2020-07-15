@@ -10,6 +10,10 @@ img {
     border-radius: 50px;
 }
 
+.bookcover {
+    border-radius: 0px;
+}
+
 .class1{
       padding: 20px;
 }
