@@ -17,6 +17,11 @@ body {
     padding-bottom: 50px;
 }
 
+.stred {
+    text-align: center;
+    width: 100%;
+}
+
 .o-nas {
     padding-bottom: 50px;
 }
@@ -29,7 +34,6 @@ body {
     padding-right: 50px;
     padding-left: 50px;
     padding-top: 50px;
-    padding-bottom: 30;
 }
 
 .kontaktobsah {
