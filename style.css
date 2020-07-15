@@ -23,7 +23,14 @@ body {
 
 .kontakt {
     background: rgb(245, 186, 60);
+}
+
+.kontaktnadpis {
     padding: 50px;
+}
+
+.kontaktobsah {
+    margin-left: 50px;
 }
 
 .map {
@@ -42,6 +49,12 @@ img {
     padding-top: 20px;
 }
 
+.bookcover2 {
+    border-radius: 0px;
+    width: 300px;
+    height: 400px;
+}
+
 .bookdescription {
     padding-top: 10px;
 }
@@ -50,11 +63,12 @@ img {
     display: flex;
 }
 
-.container2{
+.container2 {
     display: flex;
     position: relative;
 }
-.nadpis{
+
+.nadpis {
     text-align: center;
     background-image: url('img/book8.png');
     background-position: left;
@@ -76,10 +90,4 @@ iframe {
     width: 80%;
     height: 100%;
     min-height: 400px;
-}
-
-.bookcover2 {
-    border-radius: 0px;
-    width: 300px;
-    height: 400px;
 }
