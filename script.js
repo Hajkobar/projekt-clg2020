@@ -1,4 +1,3 @@
-
 function uloz(idElementucoUlozit){
     let input = document.getElementById(idElementucoUlozit);
     window.localStorage.setItem(idElementucoUlozit, input.value);
@@ -6,5 +5,5 @@ function uloz(idElementucoUlozit){
     }
     
     function zobraz(coZobrazit) {
-        document.getElementById('zprva').innerHTML = coZobrazit + ' - ' + window.localStorage.getItem(coZobrazit);
+        document.getElementById('hodiny').innerHTML = coZobrazit + ' - ' + window.localStorage.getItem(coZobrazit);
     }

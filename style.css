@@ -22,6 +22,10 @@ img {
     display: flex;
 }
 
+.container2{
+    display: flex;
+    position: relative;
+}
 .nadpis{
     text-align: center;
     background-image: url('img/book8.png');
@@ -68,3 +72,8 @@ iframe{
 min-height: 400px;
 }
 
+.bookcover2 {
+    border-radius: 0px;
+    width: 300px;
+    height: 400px;
+}
