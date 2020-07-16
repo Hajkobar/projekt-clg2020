@@ -1,5 +1,6 @@
 body {
     background-color: cornsilk;
+    font-size: medium;
 }
 
 .header {
@@ -39,7 +40,10 @@ body {
 }
 
 .kontaktobsah {
-    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .map {
@@ -56,6 +60,7 @@ img {
     border-radius: 0px;
     padding-left: 40px;
     padding-top: 20px;
+    size: 50%;
     color: black;
 }
 
@@ -103,7 +108,7 @@ float: left;
 }
 
 .nazev-autor {
-    padding-left: 50px;
+    padding-left: 20px;
     padding-top: 50px;
     padding-bottom: 30px;
 }
