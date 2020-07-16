@@ -59,7 +59,11 @@ img {
     padding-left: 40px;
     padding-top: 20px;
     size: 50%;
-    color: black;
+
+}
+
+.booklink {
+    color: rgb(245, 186, 60) !important;
 }
 
 .bookcover2 {
