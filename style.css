@@ -64,8 +64,8 @@ img {
 
 }
 
-.booklink {
-    color: rgb(245, 186, 60) !important;
+a:hover {
+    color: rgb(145, 100, 3);
 }
 
 .bookcover2 {
