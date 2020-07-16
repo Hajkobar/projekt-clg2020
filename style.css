@@ -7,9 +7,11 @@ body {
 }
 
 .h1 {
-    text-align: center;
+    text-align: center; 
     color:white;
     size: 60%;
+    position: relative; 
+    left: -50px;
 }
 
 .uvod{ 
@@ -79,12 +81,25 @@ img {
 
 .nadpis {
     color: white;
-    text-align: center;
-    background-image: url('img/book8.png');
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: contain;
+   
+    position: relative;
+   
+
     text-decoration: none;
+
+}
+.rounded-circle{
+float: left;
+}
+
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    height: 200px;
 }
 
 .nazev-autor {
